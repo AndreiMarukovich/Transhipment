@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Transhipment</id>
+    <title>Transhipment</title>
+    <version>0.8.0</version>
+    <authors>Andrei Marukovich</authors>
+    <owners>Andrei Marukovich</owners>
+    <licenseUrl>http://opensource.org/licenses/ms-pl.html</licenseUrl>
+    <projectUrl>https://github.com/AndreiMarukovich/Transhipment</projectUrl>
+    <iconUrl>http://lunarfrog.com/images/projects/Transhipment.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>WinRT library for structured data sharing using Schema.org data formats</description>
+    <releaseNotes>Initial release</releaseNotes>
+    <tags>WinRT win8 Schema.org data share contract</tags>
+  </metadata>
+  <files>
+    <file src="..\src\Transhipment\bin\Release\Transhipment.winmd" target="lib\winrt45\Transhipment.winmd" />
+  </files>
+</package>

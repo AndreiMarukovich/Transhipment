@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="4bbaf546-a61c-4950-9742-8230a5617a0a" Version="1.0.0.0" Publisher="CN=Andrei" />
+  <Properties>
+    <DisplayName>Transhipment.TestSource</DisplayName>
+    <PublisherDisplayName>Andrei</PublisherDisplayName>
+    <Logo>images\storelogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.1</OSMinVersion>
+    <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" StartPage="default.html">
+      <VisualElements DisplayName="Transhipment.TestSource" Logo="images\logo.png" SmallLogo="images\smalllogo.png" Description="Transhipment.TestSource" ForegroundText="light" BackgroundColor="#3CB371">
+        <DefaultTile ShowName="allLogos" />
+        <SplashScreen Image="images\splashscreen.png" BackgroundColor="#3CB371" />
+      </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>

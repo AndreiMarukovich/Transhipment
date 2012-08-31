@@ -1,0 +1,15 @@
+﻿<Page
+    x:Class="Transhipment.TestTarget.MainPage"
+    IsTabStop="false"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Transhipment.TestTarget"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <StackPanel x:Name="RootPanel" Background="{StaticResource ApplicationPageBackgroundThemeBrush}" >
+		<TextBlock Text="Transhipment test target" Margin="40" Style="{StaticResource PageHeaderTextStyle}"/>
+		<TextBlock Text="Use test source to share data" Margin="40,0" Style="{StaticResource SubheaderTextStyle}"/>
+	 </StackPanel>
+</Page>

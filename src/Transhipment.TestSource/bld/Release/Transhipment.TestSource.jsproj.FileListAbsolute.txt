@@ -1,0 +1,13 @@
+D:\Projects\Windows8\Transhipment\src\Transhipment.TestSource\bin\Release\resources.pri
+D:\Projects\Windows8\Transhipment\src\Transhipment.TestSource\bin\Release\AppxManifest.xml
+D:\Projects\Windows8\Transhipment\src\Transhipment.TestSource\bin\Release\Transhipment.TestSource.build.appxrecipe
+D:\Projects\Windows8\Transhipment\src\Transhipment.TestSource\bin\Release\Transhipment.winmd
+D:\Projects\Windows8\Transhipment\src\Transhipment.TestSource\bin\Release\Transhipment.pdb
+D:\Projects\Windows8\Transhipment\src\Transhipment.TestSource\bin\Release\Transhipment.pri
+D:\Projects\Windows8\Transhipment\src\Transhipment.TestSource\bld\Release\Transhipment.TestSource.jsprojResolveAssemblyReference.cache
+D:\Projects\Windows8\Transhipment\src\Transhipment.TestSource\bld\Release\priconfig.xml
+D:\Projects\Windows8\Transhipment\src\Transhipment.TestSource\bld\Release\layout.resfiles
+D:\Projects\Windows8\Transhipment\src\Transhipment.TestSource\bld\Release\resources.resfiles
+D:\Projects\Windows8\Transhipment\src\Transhipment.TestSource\bld\Release\pri.resfiles
+D:\Projects\Windows8\Transhipment\src\Transhipment.TestSource\bld\Release\LanguageQualifiers.txt
+D:\Projects\Windows8\Transhipment\src\Transhipment.TestSource\bld\Release\ProjectArchitectures.txt
